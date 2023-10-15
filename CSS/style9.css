@@ -1,0 +1,24 @@
+
+h1
+{
+    border-top: 5px solid black;
+    display: inline-block;
+}
+
+h2
+{
+    stroke-width: 5px;
+    text-decoration: line-through;
+}
+
+h3
+{
+    text-decoration: underline;
+}
+
+h4
+{
+    text-decoration: underline;
+    border-top: 1px solid black;
+    display: inline-block;
+}

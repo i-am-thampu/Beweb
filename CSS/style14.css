@@ -1,0 +1,25 @@
+
+.d{
+    background-color: rgb(255, 255, 255);
+    height: 30px;
+    width: 300px;
+    border: 1px solid darkgray;
+    display: flex;
+    align-items: center;
+    margin: 10px;;
+}
+.textt{
+    font-size: xx-small;
+    margin-left: 15px;
+    color: rgb(54, 53, 53);
+    font-weight: 300;
+}
+
+.dd{
+    background-color: rgb(241, 239, 239);
+    height: 15px;
+    width: 15px;
+    border: 1px solid darkgray;
+    border-radius: 50%;
+    margin-left: 15px;
+}

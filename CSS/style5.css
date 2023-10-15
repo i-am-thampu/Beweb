@@ -1,0 +1,25 @@
+.parent
+{
+    background-color: black;
+    height: 280px;
+    width: 600px;
+    margin: 50px;
+    padding: 7px;
+
+    
+}
+
+.child
+{
+    background-color: rgb(94, 120, 153);
+    height: 250px;
+    width: 570px;
+    margin: 15px;
+    
+} 
+
+p.main
+{
+    font-weight: bold;
+    padding: 70px;
+}7

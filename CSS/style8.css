@@ -1,0 +1,12 @@
+div
+{
+    background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet );
+    height: 50px;
+    width: 700px;
+}
+
+h1
+{
+    color: rgb(136, 136, 136);
+    padding-left: 200px;
+}
